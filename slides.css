@@ -1,0 +1,8 @@
+body {
+    font-family: Inconsolata, 'Ubuntu Mono';
+}
+
+.half {
+    float: left;
+    width: 50%;
+}
