@@ -72,6 +72,8 @@ Un serveur \*DAV n'est pas quelque chose vous avez envie d'implémenter vous-mê
 >
 > http://radicale.org/technical_choices/
 
+DAVdroid est nécessaire sous Android.
+
 ---
 background-image: url("./radicale_back.png")
 class: background-image-right
@@ -131,3 +133,10 @@ class: background-image-right
 ???
 Versionnement (_trashcan_, outil externe), association bidirectionelle, mode
 _introducer_.
+
+---
+background-image: url("./fdroid.png")
+class: background-image-right
+## Google Play &rightarrow; F-Droid
+<img src="./fdroid_screen2.png" alt="capture d'écran fdroid" class="float-left" />
+<img src="./fdroid_screen.png" alt="capture d'écran fdroid" class="float-left" />
