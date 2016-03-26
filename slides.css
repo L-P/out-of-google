@@ -1,5 +1,5 @@
-body {
-    font-family: Inconsolata, 'Ubuntu Mono';
+.remark-slide-content {
+    font-family: Inconsolata, "Ubuntu Mono", "Droid Sans Mono", Monaco, Courier, monospace;
 }
 
 .half {
@@ -18,11 +18,12 @@ body {
 }
 
 .lowcontrast {
+    /* ceci était un message du */
     color: #CCC;
 }
 
-.background-image-bottom-right {
-    background-position: bottom right;
+.background-image-right {
+    background-position: right;
 }
 
 .pros ul, .cons ul {
@@ -43,4 +44,17 @@ body {
 .pros li:before {
     content: "+ ";
     color: green;
+}
+
+.bottom-half {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.hide-count .remark-slide-number {
+    visibility: hidden;
 }
