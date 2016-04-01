@@ -33,10 +33,10 @@ https://www.stickermule.com/marketplace/3442-there-is-no-cloud
 ## Les services
 
 * Agenda
+* Android (Google Play{, Services})
 * Contacts
 * Drive
-* Google Play Services (Android)
-* Google+
+* ~~Google+~~
 * Hangouts
 * Mail
 * Map
@@ -140,3 +140,35 @@ class: background-image-right
 ## Google Play &rightarrow; F-Droid
 <img src="./fdroid_screen2.png" alt="capture d'écran fdroid" class="float-left" />
 <img src="./fdroid_screen.png" alt="capture d'écran fdroid" class="float-left" />
+
+---
+## Google Play Services &rightarrow; microG
+<blockquote cite="https://microg.org">A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.</blockquote>
+
+???
+GMS est le trojan officiel d'Android. Se met à jour silencieusement, a toutes les
+permissions sur le device.
+
+---
+background-image: url("./cyanogen.png")
+class: background-image-right
+## Android &rightarrow; CyanogenMod
+
+.pros[
+- Compatible avec **beaucoup** de téléphones
+- Seul moyen d'avoir un système à jour
+- FOSS en majorité
+- Téléphone rooté, adieu la pub (AdAway sur F-Droid)
+]
+&nbsp;
+.cons[
+- Nightlies instables (duh)
+- Pas installable par madame Michu
+- Installation des _Google Play Services_ un peu pénible
+]
+
+???
+Basé sur <abbr title="Android Open Source Project">AOSP</abbr>
+
+Voir aussi Replicant (basé sur CyanogenMod, approuvé par la <abbr title="Free
+Software Foundation">FSF</abbr>)
