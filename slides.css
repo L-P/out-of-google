@@ -26,6 +26,10 @@
     background-position: right;
 }
 
+.middle {
+    vertical-align: middle;
+}
+
 .pros ul, .cons ul {
     list-style-type: none;
     padding: 0;

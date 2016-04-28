@@ -158,7 +158,6 @@ class: background-image-right
 - Compatible avec **beaucoup** de téléphones
 - Seul moyen d'avoir un système à jour
 - FOSS en majorité
-- Téléphone rooté, adieu la pub (AdAway sur F-Droid)
 ]
 &nbsp;
 .cons[
@@ -172,3 +171,55 @@ Basé sur <abbr title="Android Open Source Project">AOSP</abbr>
 
 Voir aussi Replicant (basé sur CyanogenMod, approuvé par la <abbr title="Free
 Software Foundation">FSF</abbr>)
+
+---
+## Maps &rightarrow; OsmAnd~
+<img src="./osmand_screen.png" alt="capture d'écran OsmAnd" class="float-left" />
+<img src="./osmand_screen2.png" alt="capture d'écran OsmAnd" class="float-left" />
+
+---
+background-image: url("./osm.png")
+class: background-image-right
+## Maps &rightarrow; OsmAnd~
+.pros[
+- Utilisable sans connexion
+- Exhaustif
+]
+&nbsp;
+.cons[
+- Nécessite un téléphone puissant
+- Recherche et navigation pas optimales
+]
+
+---
+## Le reste 1/2
+1. ### Google Play Music
+    Sortir du streaming sans entrer dans l'illégalité est difficile.
+
+    Mopidy pourra être utilisé quand il pourra être utilisé en tant que serveur de
+    streaming.
+
+2. ### Hangouts
+    Certainement pas Skype.
+
+---
+## Le reste 2/2
+1. ### Recherche
+    Probablement DuckDuckGo, Google reste ancré dans mes habitudes.
+
+2. ### Gmail
+    Vaste choix.
+
+---
+## … c'est fait
+
+Pour aller plus loin&nbsp;:
+- CHATONS, Framasoft, Dégooglisons Internet  
+  https://degooglisons-internet.org/
+
+- Les slides&nbsp;: https://github.com/L-P/slides
+
+- <img src="./google.png" alt="google search" class="middle" />
+
+???
+Collectif d’Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires
