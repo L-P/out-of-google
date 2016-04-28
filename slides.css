@@ -1,0 +1,64 @@
+.remark-slide-content {
+    font-family: Inconsolata, "Ubuntu Mono", "Droid Sans Mono", Monaco, Courier, monospace;
+}
+
+.half {
+    float: left;
+    width: 50%;
+}
+
+.float-left {
+    float: left;
+    margin-right: 50px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 50px;
+}
+
+.lowcontrast {
+    /* ceci était un message du */
+    color: #CCC;
+}
+
+.background-image-right {
+    background-position: right;
+}
+
+.middle {
+    vertical-align: middle;
+}
+
+.pros ul, .cons ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.pros li, .cons li {
+    padding-left: 1em;
+}
+
+.cons li:before {
+    content: "- ";
+    color: red;
+}
+
+.pros li:before {
+    content: "+ ";
+    color: green;
+}
+
+.bottom-half {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.hide-count .remark-slide-number {
+    visibility: hidden;
+}
