@@ -217,7 +217,7 @@ Pour aller plus loin&nbsp;:
 - CHATONS, Framasoft, Dégooglisons Internet  
   https://degooglisons-internet.org/
 
-- Les slides&nbsp;: https://github.com/L-P/slides
+- Les slides&nbsp;: https://l-p.github.io/out-of-google/
 
 - <img src="./google.png" alt="google search" class="middle" />
 
