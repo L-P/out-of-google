@@ -8,9 +8,7 @@ De la réappropriation de ses données.
 ---
 ## Léo Peltier
 <img class="float-left" src="./avatar.png" alt="avatar" height="100" />
-<img class="float-right" src="./boaterfly.png" alt="logo Boaterfly" height="100" />
 
-- CTO @ Boaterfly, location de bateau en p2p
 - Rockstar ninja artisan code crafter .lowcontrast[/s]
 - Libriste modéré
 - **Paranoïaque pragmatique**
